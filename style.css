@@ -1,0 +1,21 @@
+#body {
+text-align: center;
+display: flexbox;
+justify-content: space-between;
+}
+
+#mainheader {
+
+}
+
+.subheader {
+
+}
+
+.info {
+
+}
+
+#bibliography {
+    text-align: right;
+}
