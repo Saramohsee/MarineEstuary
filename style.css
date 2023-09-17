@@ -2,13 +2,14 @@
 text-align: center;
 display: flexbox;
 justify-content: space-between;
+background: linear-gradient(180deg, #65DAD1 0%, #27657E 100%);
 }
 
 #mainheader {
 
 }
 
-.subheader {
+.question {
 
 }
 
@@ -16,6 +17,7 @@ justify-content: space-between;
 
 }
 
-#bibliography {
-    text-align: right;
+#Bibliography {
+    text-align: left;
+  
 }
