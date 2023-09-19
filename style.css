@@ -5,9 +5,9 @@ justify-content: space-between;
 background: linear-gradient(85deg, #65DAD1 0%, #27657E 100%);
 }
 
-#mainheader {
-font-family: Georgia, 'Times New Roman', Times, serif;
-color: #27657E;
+#maintitleimg {
+    position:absolute;
+    z-index: 4;
 }
 
 .question {
@@ -28,5 +28,5 @@ color: aliceblue;
 }
 
 #questionone {
-    background-image:url(planktonFeeding.png) ;
+   
 }
