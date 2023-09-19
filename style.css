@@ -1,13 +1,26 @@
 #body {
 text-align: center;
-display: flexbox;
+display:grid;
 justify-content: space-between;
 background: linear-gradient(85deg, #65DAD1 0%, #27657E 100%);
+margin-top: 35%;
+
+
+}
+header {
+
+}
+#Whitehaven-Beach {
+    position:absolute;
+    top: 0%;
+    left:0;
 }
 
 #maintitleimg {
     position:absolute;
     z-index: 4;
+    top: 20%;
+   left: 26%;
 }
 
 .question {
