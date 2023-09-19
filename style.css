@@ -2,7 +2,7 @@
 text-align: center;
 display: flexbox;
 justify-content: space-between;
-background: linear-gradient(90deg, #65DAD1 0%, #27657E 100%);
+background: linear-gradient(85deg, #65DAD1 0%, #27657E 100%);
 }
 
 #mainheader {
