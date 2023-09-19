@@ -2,22 +2,31 @@
 text-align: center;
 display: flexbox;
 justify-content: space-between;
-background: linear-gradient(180deg, #65DAD1 0%, #27657E 100%);
+background: linear-gradient(90deg, #65DAD1 0%, #27657E 100%);
 }
 
 #mainheader {
-
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: #27657E;
 }
 
 .question {
-
+color: aliceblue;
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-transform: uppercase;
 }
 
 .info {
-
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aliceblue;
 }
 
 #Bibliography {
     text-align: left;
+    color: aliceblue;
   
+}
+
+#questionone {
+    background-image:url(planktonFeeding.png) ;
 }
