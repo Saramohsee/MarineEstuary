@@ -1,12 +1,4 @@
-#body {
-text-align: center;
-display:grid;
-justify-content: space-between;
-background: linear-gradient(85deg, #65DAD1 0%, #27657E 100%);
-margin-top: 35%;
 
-
-}
 header {
 
 }
@@ -27,11 +19,13 @@ header {
 color: aliceblue;
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 text-transform: uppercase;
+margin-bottom: 10px;
 }
 
 .info {
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 color: aliceblue;
+line-height: 175%;
 }
 
 #Bibliography {
@@ -40,11 +34,81 @@ color: aliceblue;
   
 }
 
-#questionone {
-   
+#mapkey {
+  width: 200px;  
+  margin-bottom: 10px;
 }
+#wheretitle {
+    margin-left: 250px;
+}
+
+#whereparagraph {
+    margin-left: 250px;
+}
+
 
 #dogongparagraph {
     position: absolute;
     margin-top: 5%;
+}
+
+
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    
+}
+/* Create a container for the columns */
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+ h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    display:grid;
+    justify-content: space-between;
+    background: linear-gradient(85deg, #65DAD1 0%, #27657E 100%);
+    margin-top: 35%;
+    margin: 0;
+    padding: 0;
+}
+#map {
+margin-right: 100%;
+}
+
+
+#dogongVid {
+  
+}
+
+
+#trinityInletRiver {
+    margin-bottom: 5%;
+    margin-left: 27%;
+    margin-top: 5%;
+}
+
+#estuaryTypes {
+    margin-top: 40px;
+}
+
+#whattypetitle {
+    margin-left: 250px;
+    
+}
+
+#estuarytypeparagraph {
+    margin-bottom: 5%;
+    margin-left: 250px;
 }
